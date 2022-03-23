@@ -157,4 +157,53 @@ texto) y guárdalo dentro de la carpeta HISTORIA con el nombre TOTAL.TXT
 ![image](https://user-images.githubusercontent.com/91564971/159803901-4d89e96c-45bb-43e9-a8c2-8f7b9a291984.png)
 
 ## Ejercicio 4
+1.- Crea en la carpeta raíz de la unidad A: una carpeta denominada TECINFO
 
+![image](https://user-images.githubusercontent.com/91564971/159804020-18dfb423-91b4-45a1-8659-0f3e1329ad60.png)
+
+2.- Crea dentro de TECINFO el siguiente archivo de texto y llámalo HARD.TXT
+        “El HARDWARE está constituido por los elementos físicos del ordenador.
+        Consta esencialmente de componentes electrónicos que proporcionan el
+        soporte necesario para la interpretación y ejecución de las operaciones
+        elementales que realiza el ordenador”
+
+![image](https://user-images.githubusercontent.com/91564971/159804050-b4b63ab6-8b53-4ad7-a69c-b0b473302ec3.png)
+
+3.- Crea dentro de TECINFO el siguiente archivo de texto y llámalo SOFT.TXT
+        “El SOFTWARE es el conjunto de elementos lógicos necesarios para que el
+        ordenador realice las funciones que se le encomiendan. Está formado por
+        los programas, es decir, por un conjunto ordenado de instrucciones,
+        comprensibles por la máquina, que permiten desarrollar tareas concretas”
+
+![image](https://user-images.githubusercontent.com/91564971/159804083-0a8711c1-5e2f-4df7-be27-dc8ff1c8db02.png)
+
+4.- Mueve el contenido de TECINFO a la carpeta APLI del disquete A utilizado para realizar los
+ejercicios anteriores
+
+![image](https://user-images.githubusercontent.com/91564971/159804125-6f6da4a2-1ccd-428d-bf73-62910d7a9267.png)
+
+5.- Crea un nuevo archivo formado por la unión de HARD.TXT y SOFT.TXT, sin volver a escribir
+el texto, y guárdalo en la carpeta AGENDA con el nombre ORDER.TXT
+
+![image](https://user-images.githubusercontent.com/91564971/159804156-364fb124-369f-43fb-bec4-379438c36e2a.png)
+
+6.- Elimina la carpeta TECINFO
+
+![image](https://user-images.githubusercontent.com/91564971/159804192-a2bec196-ee09-478e-a025-b8cf67133f1e.png)
+
+7.- Copia a la vez los archivos HARD.TXT y SOFT.TXT en la carpeta VARIOS
+
+![image](https://user-images.githubusercontent.com/91564971/159804221-b685fcbc-a9d7-4dfd-b35f-0b97881658c3.png)
+
+8.- Cambia la extensión de los archivos contenidos en AGENDA por .TYP
+
+![image](https://user-images.githubusercontent.com/91564971/159804284-8051ca1a-7267-4251-8f67-2749ef806482.png)
+
+9.- Cambia la primera letra del nombre de todos los archivos del directorio APLI que empiecen
+por la letra C y tengan extensión DOC de forma que empiecen con la letra S
+
+Este punto no se puede realizar ya que en ningún momento anterior hemos creado ningún archivo con la extensión '.DOC' en lo cual si no existe no podemos hacer ninguna modificación.
+
+10.- Copia los archivos contenidos en la carpeta APLI que tengan extensión DOC en la carpeta AGENDA
+
+Este punto no se puede realizar ya que en ningún momento anterior hemos creado ningún archivo con la extensión '.DOC' en lo cual si no existe no podemos hacer ninguna modificación.
