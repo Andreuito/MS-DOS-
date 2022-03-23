@@ -3,6 +3,7 @@
 
 ### Indica en cada caso las órdenes utilizadas:
 1.- Crea la siguiente estructura de carpetas:
+
 ![image](https://user-images.githubusercontent.com/91564971/159798600-fc7ab99f-06f1-484b-8ac9-e3bc053055c7.png)
 
 2.- Sitúate en la carpeta TABLAS
