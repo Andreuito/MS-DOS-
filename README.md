@@ -50,21 +50,55 @@
 
 ![image](https://user-images.githubusercontent.com/91564971/159799562-6881f2ed-6895-4520-a1a5-fd651f926a1d.png)
 
+## Ejercicio 2
+1.- Utilizando el editor de textos de MS-DOS, crea un archivo de texto denominado EJER.TXT,
+con el siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la estructura
+del ejercicio anterior):
+    “La información dentro de los discos se almacena en forma de archivos. Un archivo
+    o fichero es un conjunto de datos que MS-DOS almacena en un disco y cuyo
+    control interno es realizado por el sistema operativo, aunque desde el punto de
+    vista lógico el control es del usuario”
 
+![image](https://user-images.githubusercontent.com/91564971/159802056-689771f7-4764-4dfa-a51a-70b51dbaa4ea.png)
 
+2.- Copia el archivo EJER.TXT en AGENDA
 
+![image](https://user-images.githubusercontent.com/91564971/159802107-23cf4b87-6586-4228-a849-a3100f2b0306.png)
 
+3.- Borra el archivo almacenado en la carpeta TEXTOS
 
+![image](https://user-images.githubusercontent.com/91564971/159802141-df197ffd-1bdd-4ed5-9443-34885902fa5f.png)
 
+4.- Añade el siguiente párrafo al archivo EJER.TXT:
+    “Cada archivo tiene un nombre y una extensión que los distingue del resto de archivos”
 
+![image](https://user-images.githubusercontent.com/91564971/159802177-943512a7-f0c7-48a9-aef3-37e8f77dd731.png)
 
+5.- Copia el archivo EJER.TXT en la carpeta BASIC
 
+![image](https://user-images.githubusercontent.com/91564971/159802233-52c4c91e-a697-49cb-8403-abfff488dfd1.png)
 
+6.- Cambia el nombre del archivo almacenado en AGENDA por FICHERO.TXT
 
+![image](https://user-images.githubusercontent.com/91564971/159802282-fc4e0554-c3bf-49a7-9acb-5de4e8eddec0.png)
 
+7.- Mueve el archivo FICHERO.TXT a la carpeta BASIC
 
+![image](https://user-images.githubusercontent.com/91564971/159802325-aacc8f6d-7019-4702-870e-1b586cd9dd2a.png)
 
+8.- Abre el archivo EJER.TXT y borra la primera frase; almacena el nuevo archivo con el
+nombre NUEVO.TXT dentro de la carpeta BASIC
 
+![image](https://user-images.githubusercontent.com/91564971/159802351-62664c19-c90b-416f-8416-ed4a5eaccbbc.png)
 
+![image](https://user-images.githubusercontent.com/91564971/159802364-85327cb9-3300-4ed5-bdcd-77d3cc7b2878.png)
 
+9.- Copia el archivo NUEVO.TXT en la carpeta NOTAS
 
+![image](https://user-images.githubusercontent.com/91564971/159802405-99c1a09f-a5bb-4ce8-bd86-3694700b9a25.png)
+
+10.- ¿Cuántos archivos hay en la carpeta BASIC? ¿Y en NOTAS?
+
+![image](https://user-images.githubusercontent.com/91564971/159802439-06f1f516-c12c-4099-941d-597c44af5496.png)
+
+## Ejercicio 3
