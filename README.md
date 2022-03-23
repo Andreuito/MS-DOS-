@@ -202,8 +202,8 @@ el texto, y guárdalo en la carpeta AGENDA con el nombre ORDER.TXT
 9.- Cambia la primera letra del nombre de todos los archivos del directorio APLI que empiecen
 por la letra C y tengan extensión DOC de forma que empiecen con la letra S
 
-Este punto no se puede realizar ya que en ningún momento anterior hemos creado ningún archivo con la extensión '.DOC' en lo cual si no existe no podemos hacer ninguna modificación.
+Este punto no se puede realizar ya que en ningún momento anterior hemos creado ningún archivo con la extensión '.DOC'
 
 10.- Copia los archivos contenidos en la carpeta APLI que tengan extensión DOC en la carpeta AGENDA
 
-Este punto no se puede realizar ya que en ningún momento anterior hemos creado ningún archivo con la extensión '.DOC' en lo cual si no existe no podemos hacer ninguna modificación.
+Este punto no se puede realizar ya que en ningún momento anterior hemos creado ningún archivo con la extensión '.DOC'
