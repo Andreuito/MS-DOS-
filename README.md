@@ -34,8 +34,21 @@
 
 ![image](https://user-images.githubusercontent.com/91564971/159799306-60fa4b52-d7db-4c36-a540-2f9ce90c449c.png)
 
+9.- Sitúate en la carpeta APLI y desde allí crea una subcarpeta llamada AGENDA dentro de VARIOS
 
+![image](https://user-images.githubusercontent.com/91564971/159799421-a6dc3c76-4243-4611-95da-9f8cec5e1d9c.png)
 
+10.- Borra la carpeta EXCEL
+
+![image](https://user-images.githubusercontent.com/91564971/159799465-b6b1006a-63b6-49a3-910f-d1bbd2e23101.png)
+
+11.- Desde la carpeta raíz, crea en ella una subcarpeta llamada NUEVO
+
+![image](https://user-images.githubusercontent.com/91564971/159799526-32d96cec-524c-4887-a3d5-80da93baee29.png)
+
+12.- Desde PRACT muestra el contenido de WORD
+
+![image](https://user-images.githubusercontent.com/91564971/159799562-6881f2ed-6895-4520-a1a5-fd651f926a1d.png)
 
 
 
